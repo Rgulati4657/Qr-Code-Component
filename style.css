@@ -29,7 +29,7 @@ body{
     max-width: 300px;
     height: auto;
     background-color: var(--White-color);
-    border-radius: 15px;
+   border-radius: 1.5rem 1.2rem;
     box-shadow:5px 5px 110px 10px var(--light-blue);
     min-width: 270px;
 }
@@ -37,7 +37,7 @@ body{
     margin-inline:auto;
     margin-block: 1rem;
     max-width: 90%;
-    border-radius: 15px;
+    border-radius: 1.5rem 1.2rem;
     overflow:hidden;
    
 }
